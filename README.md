@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Mohamed</h1>
-<h3 align="center">I am a student in the College of computer science and a Data Analyst passionate from Egypt</h3>
+<h3 align="center">I am a student in the College of computer science and a passionate Data Analyst from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliisnetalive&label=Profile%20views&color=0e75b6&style=flat" alt="aliisnetalive" /> </p>
 
