@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alialiabed088@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ln0CeQtTIJF8B3OlkqlCm3xwrmozJ-6l/view](https://drive.google.com/file/d/1Ln0CeQtTIJF8B3OlkqlCm3xwrmozJ-6l/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Ln0CeQtTIJF8B3OlkqlCm3xwrmozJ-6l/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
