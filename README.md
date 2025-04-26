@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliisnetalive&label=Profile%20views&color=0e75b6&style=flat" alt="aliisnetalive" /> </p>
 
-- 🔭 I’m currently working on [Python Programming Course](https://www.udacity.com/course/introduction-to-python--ud1110)
-
-- 🌱 I’m currently learning **Advanced Excel , Power BI**
+- 🌱 I’m currently learning **Advanced python , Power BI**
 
 - 📫 How to reach me **alialiabed088@gmail.com**
 
