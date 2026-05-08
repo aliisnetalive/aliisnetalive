@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/149844936?v=4" width="150" alt="Ali Mohamed" />
+  <h1>Ali Mohamed</h1>
+  <h3>Computer Science Student · AI & Data Scientist</h3>
+</div>
+
 <p align="center">
   <a href="https://linkedin.com/in/ali-abed-76b7b4269" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,7 +51,7 @@ I'm a Computer Science student and passionate **AI & Data Scientist** from Egypt
 - 🧠 [**Brain MRI Segmentation**](https://github.com/aliisnetalive/brain-mri-segmentation) — Custom U-Net, 90%+ Dice Coefficient
 - 🍎 [**Fruits Classification**](https://github.com/aliisnetalive/fruits-classification) — Transfer Learning with 5 architectures comparison
 - 🤚 [**Hand Gesture Recognition**](https://github.com/aliisnetalive/hand-gesture-recognition) — MediaPipe + Logistic Regression
-- 😊 [**Face Recognition**](https://github.com/aliisnetalive/face-recognition) — KNN classifier, Flask backend
+- 😊 [**Face Recognition**](https://github.com/aliisnetalive/face-recognition) — KNN classifier, Flask/FastAPI backend
 
 </td>
 <td width="50%">
@@ -120,7 +126,9 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 </td>
 </tr>
@@ -136,13 +144,33 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-1A7BD1?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-052B2C?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=catboost&logoColor=black" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-1A73E8?style=for-the-badge&logo=mediapipe&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
+**NLP & LLMs**
+
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0064FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentence--Transformers-2D3748?style=for-the-badge&logo=sbert&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 </p>
 </td>
 </tr>
@@ -162,6 +190,8 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 </td>
 </tr>
@@ -178,6 +208,9 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F7822F?style=for-the-badge&logo=gradio&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/LM_Studio-7C3AED?style=for-the-badge&logo=lama&logoColor=white" />
 </p>
