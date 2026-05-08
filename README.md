@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/149844936?v=4" width="150" alt="Ali Mohamed" />
   <h1>Ali Mohamed</h1>
   <h3>Computer Science Student · AI & Data Scientist</h3>
 </div>
