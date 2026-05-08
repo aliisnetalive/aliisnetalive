@@ -20,7 +20,7 @@
   <a href="mailto:alialiabed088@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1Ln0CeQtTIJF8B3OlkqlCm3xwrmozJ-6l/view">
+  <a href="https://drive.google.com/file/d/18yqudoXd2K7QqWcqZRhPe65S5DIDwqLR/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
