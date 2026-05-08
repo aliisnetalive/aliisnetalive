@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/149844936?v=4" width="150" alt="Ali Mohamed" />
   <h1>Ali Mohamed</h1>
-  <h3>Computer Science Student · AI & Data Engineer</h3>
+  <h3>Computer Science Student · AI & Data Scientist</h3>
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student and passionate **AI & Data Engineer** from Egypt, focused on building end-to-end machine learning systems — from data exploration and model training to deployment as production-ready APIs. I love turning raw data into actionable intelligence and deploying AI solutions that solve real-world problems.
+I'm a Computer Science student and passionate **AI & Data Scientist** from Egypt, focused on building end-to-end machine learning systems — from data exploration and model training to deployment as production-ready APIs. I love turning raw data into actionable intelligence and deploying AI solutions that solve real-world problems.
 
 - 🎓 Computer Science student at the Faculty of Computer Science
 - 🏗️ Building AI-powered modules for **NOVAERP** — an enterprise Egyptian ERP system
@@ -110,16 +110,31 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,flask,flutter,pytorch,tensorflow,sklearn,opencv,git,docker,linux,mysql,sqlite,figma&theme=dark" alt="Tech Stack" />
-</p>
-
 <table>
 <tr>
 <td align="center" width="100%">
-  
+
+**Languages & Frameworks**
+
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
 **AI & Machine Learning**
-  
+
 </td>
 </tr>
 <tr>
@@ -139,9 +154,9 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 </tr>
 <tr>
 <td align="center" width="100%">
-  
+
 **Data & Databases**
-  
+
 </td>
 </tr>
 <tr>
@@ -158,9 +173,9 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 </tr>
 <tr>
 <td align="center" width="100%">
-  
+
 **DevOps & Tools**
-  
+
 </td>
 </tr>
 <tr>
