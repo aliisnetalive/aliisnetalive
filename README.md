@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=180&section=header&text=Ali%20Mohamed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Data%20Engineer&descSize=18&descAlignY=52" />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/149844936?v=4" width="150" alt="Ali Mohamed" />
+  <h1>Ali Mohamed</h1>
+  <h3>Computer Science Student · AI & Data Engineer</h3>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-abed-76b7b4269" target="blank">
@@ -106,26 +110,11 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="100%">
-  
-**Languages & Frameworks**
-  
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,flask,flutter,pytorch,tensorflow,sklearn,opencv,git,docker,linux,mysql,sqlite,figma&theme=dark" alt="Tech Stack" />
 </p>
-</td>
-</tr>
+
+<table>
 <tr>
 <td align="center" width="100%">
   
@@ -189,12 +178,7 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliisnetalive&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
@@ -211,7 +195,3 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aliisnetalive&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" />
