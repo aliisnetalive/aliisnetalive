@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/149844936?v=4" width="150" alt="Ali Mohamed" />
-  <h1>Ali Mohamed</h1>
-  <h3>Computer Science Student · AI & Data Scientist</h3>
-</div>
-
 <p align="center">
   <a href="https://linkedin.com/in/ali-abed-76b7b4269" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -208,5 +202,5 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 ### 🏆 Featured Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliisnetalive&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliisnetalive&theme=onestar&no-bg=true&no-frame=true&column=3&margin-w=5&title=Commit,Repositories,Experience" alt="Trophies" />
 </p>
