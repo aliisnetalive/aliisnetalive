@@ -42,12 +42,12 @@ I'm a Computer Science student and passionate **AI & Data Engineer** from Egypt,
 #### 🖼️ Computer Vision
 <sup>Object detection, image classification, segmentation & face recognition</sup>
 
-- 🔍 [**Chess Pieces Detection**](https://github.com/aliisnetalive/chess-pieces-detection) — YOLOv8, 13-class real-time detection
-- 🃏 [**UNO Cards Detection**](https://github.com/aliisnetalive/uno-cards-detection) — Fine-tuned YOLOv8, 15 card classes, live webcam
+- 🔍 [**Chess Pieces Detection**](https://github.com/aliisnetalive/chess-pieces-detection) — YOLO, 13-class real-time detection
+- 🃏 [**UNO Cards Detection**](https://github.com/aliisnetalive/uno-cards-detection) — Fine-tuned YOLO, 15 card classes, live webcam
 - 🧠 [**Brain MRI Segmentation**](https://github.com/aliisnetalive/brain-mri-segmentation) — Custom U-Net, 90%+ Dice Coefficient
 - 🍎 [**Fruits Classification**](https://github.com/aliisnetalive/fruits-classification) — Transfer Learning with 5 architectures comparison
 - 🤚 [**Hand Gesture Recognition**](https://github.com/aliisnetalive/hand-gesture-recognition) — MediaPipe + Logistic Regression
-- 😊 [**Face Recognition**](https://github.com/aliisnetalive/face-recognition) — KNN classifier, dual Flask/FastAPI backend
+- 😊 [**Face Recognition**](https://github.com/aliisnetalive/face-recognition) — KNN classifier, Flask backend
 
 </td>
 <td width="50%">
@@ -118,12 +118,10 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 <td>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 </td>
@@ -139,12 +137,13 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 <td>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-1A7BD1?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/FAISS-0064FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 </td>
@@ -164,6 +163,7 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 </td>
 </tr>
@@ -192,16 +192,16 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliisnetalive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliisnetalive&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliisnetalive&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliisnetalive&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliisnetalive&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -209,7 +209,7 @@ Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask
 ### 🏆 Featured Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliisnetalive&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliisnetalive&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
 ---
