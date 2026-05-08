@@ -77,7 +77,7 @@ I'm a Computer Science student and passionate **AI & Data Scientist** from Egypt
 
 ###  NOVAERP — Enterprise AI Modules
 
-Building AI-powered modules for an Egyptian ERP system, each deployed as a Flask API with Docker support:
+Building AI-powered modules for an Egyptian ERP system, deployed as Flask APIs with Docker support:
 
 <table>
 <tr>
