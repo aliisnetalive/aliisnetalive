@@ -83,11 +83,10 @@ Building AI-powered modules for an Egyptian ERP system, deployed as Flask APIs w
 <tr>
 <td width="33%">
 
-####  Chatbots (RAG)
+####  Chatbot (RAG)
 <sup>Retrieval-Augmented Generation with FAISS + LLMs</sup>
 
--  [**HR Chatbot**](https://github.com/aliisnetalive/hr-erp-chatbot) — FAISS + Llama 3.2, ERP manual Q&A
--  [**Customer Support**](https://github.com/aliisnetalive/cs-chatbot-erp) — RAG chatbot, FAISS vector search
+-  [**HR & Customer Support Chatbot**](https://github.com/aliisnetalive/hr-and-customer-support-erp-chatbot) — RAG with FAISS + Llama 3.2, dual-purpose ERP assistant
 
 </td>
 <td width="33%">
