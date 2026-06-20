@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ali Mohamed</h1>
-  <h3>Computer Science Student · AI & Data Scientist</h3>
+  <h3>AI & Data Scientist</h3>
 </div>
 
 <p align="center">
