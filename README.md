@@ -19,7 +19,7 @@
   <a href="mailto:alialiabed088@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1EMCdO-JX09DzdKhuzmXVVGsL_BRX7G-U/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1UMfwRNLPgx5yKSxVl2v8sdY3QE25gGvN/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
