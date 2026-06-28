@@ -32,7 +32,7 @@
 
 ###  About Me
 
-I'm a Computer Science student and passionate **AI & Data Scientist** from Egypt, focused on building end-to-end machine learning systems — from data exploration and model training to deployment as production-ready APIs. I love turning raw data into actionable intelligence and deploying AI solutions that solve real-world problems.
+I'm a passionate **AI & Data Scientist** from Egypt, focused on building end-to-end machine learning systems — from data exploration and model training to deployment as production-ready APIs. I love turning raw data into actionable intelligence and deploying AI solutions that solve real-world problems.
 
 -  Computer Science student at the Faculty of Computer Science
 -  Building AI-powered modules for **NOVAERP** — an enterprise Egyptian ERP system
